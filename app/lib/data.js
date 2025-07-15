@@ -1,0 +1,92 @@
+export const blogData = [
+  {
+    id: '1',
+    title: 'Rose',
+    image: '/blog1.jpg',
+    description: 'Roses symbolize love and beauty and come in various colors.',
+  },
+  {
+    id: '2',
+    title: 'Tulip',
+    image: '/blog2.jpg',
+    description: 'Tulips are vibrant, spring-blooming flowers with a cup shape.',
+  },
+  {
+    id: '3',
+    title: 'Sunflower',
+    image: '/blog3.jpg',
+    description: 'Sunflowers are known for their bright yellow petals and tall stems.',
+  },
+  {
+    id: '4',
+    title: 'Lily',
+    image: '/blog4.jpg',
+    description: 'Lilies are elegant flowers often associated with purity and renewal.',
+  },
+  {
+    id: '5',
+    title: 'Daisy',
+    image: '/blog5.jpg',
+    description: 'Daisies are cheerful white flowers with a sunny yellow center.',
+  },
+  {
+    id: '6',
+    title: 'Orchid',
+    image: '/blog6.jpg',
+    description: 'Orchids are exotic flowers known for their delicate beauty and variety.',
+  },
+  {
+    id: '7',
+    title: 'Marigold',
+    image: '/blog7.jpg',
+    description: 'Marigolds are bright orange or yellow and used in festivals and decor.',
+  },
+  {
+    id: '8',
+    title: 'Lavender',
+    image: '/blog8.jpg',
+    description: 'Lavender is loved for its fragrance and calming properties.',
+  },
+  {
+    id: '9',
+    title: 'Hibiscus',
+    image: '/blog9.jpg',
+    description: 'Hibiscus flowers are large, colorful, and attract hummingbirds.',
+  },
+  {
+    id: '10',
+    title: 'Peony',
+    image: '/blog10.jpg',
+    description: 'Peonies are lush, fragrant flowers often used in weddings.',
+  },
+  {
+    id: '11',
+    title: 'Chrysanthemum',
+    image: '/blog11.jpg',
+    description: 'Chrysanthemums symbolize joy and optimism in many cultures.',
+  },
+  {
+    id: '12',
+    title: 'Daffodil',
+    image: '/blog12.jpg',
+    description: 'Daffodils are spring flowers that symbolize rebirth and new beginnings.',
+  },
+  {
+    id: '13',
+    title: 'Jasmine',
+    image: '/blog13.jpg',
+    description: 'Jasmine is a fragrant flower commonly used in perfumes and teas.',
+  },
+  {
+    id: '14',
+    title: 'Zinnia',
+    image: '/blog14.jpg',
+    description: 'Zinnias are bright, cheerful flowers that bloom in summer.',
+  },
+  {
+    id: '15',
+    title: 'Petunia',
+    image: '/blog15.jpg',
+    description: 'Petunias are popular garden flowers known for their vibrant colors.',
+  },
+];
