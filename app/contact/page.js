@@ -6,8 +6,9 @@ export default function ContactPage() {
       <h2 className="contact-heading">Contact Us</h2>
 
       <p className="contact-text">
-        We'd love to hear from you! Whether you have questions, feedback, or need support, feel free to reach out.
-      </p>
+      {"We'd love to hear from you! Whether you have questions, feedback, or need support, feel free to reach out."}
+     </p>
+
 
       <div className="contact-details">
         <p><strong> Email:</strong> abc@gmail.com</p>
