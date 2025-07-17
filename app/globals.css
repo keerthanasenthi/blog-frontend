@@ -159,8 +159,6 @@ body {
 }
 
 
-
-/* Header layout */
 .header {
   display: flex;
   justify-content: space-between;
@@ -196,7 +194,6 @@ body {
   color: #0070f3;
 }
 
-/* About Page Styles */
 .about-container {
   max-width: 800px;
   margin: 2rem auto;
@@ -235,7 +232,6 @@ body {
   margin-bottom: 0.5rem;
 }
 
-/* Contact Page Styles */
 .contact-container {
   max-width: 800px;
   margin: 2rem auto;

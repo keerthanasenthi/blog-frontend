@@ -16,9 +16,7 @@ export default function HomePage() {
       <main className="home-container">
         <h1 className="home-heading">Welcome to the Blog Panel</h1>
         <p className="home-subtext">Manage your blog content easily and efficiently.</p>
-        <button className="button" onClick={handleLogin}>
-          Login
-        </button>
+        <button className="button" onClick={handleLogin}>Login</button>
       </main>
     </>
   );
